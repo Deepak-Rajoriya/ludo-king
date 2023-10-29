@@ -1,0 +1,17 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+body {
+    max-width: 400px;
+    margin: auto;
+}
+header {
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+.add-cash {
+    text-decoration: none;
+    line-height: 1;
+    font-size: 12px;
+    gap: 5px;
+    color: #000;
+}
