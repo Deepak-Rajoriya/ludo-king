@@ -35,3 +35,7 @@ span.menu-icon {
     display: inline-block;
     line-height: 1;
 }
+
+#headerMenu {
+    max-width: 300px;
+}
