@@ -15,3 +15,23 @@ header {
     gap: 5px;
     color: #000;
 }
+
+.header-menu li a {
+    text-decoration: none;
+    color: #000;
+    font-size: 14px;
+    font-weight: 500;
+}
+.header-menu li a:hover {
+    background-color: #02002f30;
+    border-radius: 5px;
+}
+span.menu-icon {
+    font-size: 14px;
+    background-color: #02002f;
+    color: #fff;
+    border-radius: 50px;
+    padding: 10px 10px;
+    display: inline-block;
+    line-height: 1;
+}
